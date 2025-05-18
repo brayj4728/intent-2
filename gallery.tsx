@@ -1996,7 +1996,7 @@ export default function Gallery() {
                       </motion.div>
                       <motion.div className="relative w-full aspect-auto">
                         <Image
-                          src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/4582ca208243573.66eb484a9d200%20%282%29-vBG9zUokbKFVj7XxoFDanhila5yf.public.blob.vercel-storage.com/4582ca208243573.66eb484a9d200%20%282%29-vBG9zUokbKFVj7XxoFDNFKfbYUB6Jd.png"
+                          src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/4582ca208243573.66eb484a9d200-QOZUJxds3cdNn8ogdNyy7VbKkGQCno.png"
                           alt="Rebeca Beauty - Live the Trends, Taste the Creativity - Handbags in tan and red"
                           width={1920}
                           height={1080}
