@@ -98,4 +98,3 @@ export default function GallerySimple() {
     </motion.div>
   )
 }
-
