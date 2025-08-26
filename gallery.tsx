@@ -873,7 +873,7 @@ export default function Gallery() {
                     }`}
                     onClick={() =>
                       window.open(
-                        "https://dour-law-641.notion.site/Brayan-Rojas-1c7789e20b7b80fdac86e9c96e899cea",
+                        "https://mature-humor-b1c.notion.site/Brayan-Rojas-25b254d232038016b63be52e30b16272",
                         "_blank",
                       )
                     }
@@ -1996,7 +1996,7 @@ export default function Gallery() {
                       </motion.div>
                       <motion.div className="relative w-full aspect-auto">
                         <Image
-                          src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/4582ca208243573.66eb484a9d200-QOZUJxds3cdNn8ogdNyy7VbKkGQCno.png"
+                          src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/4582ca208243573.66eb484a9d200-QOZUJxds3cdNn8ogdNyy7VbKkGQChebbkx1anhila5yf.public.blob.vercel-storage.com/4582ca208243573.66eb484a9d200-QOZUJxds3cdNn8ogdNyy7VbKkGQCno.png"
                           alt="Rebeca Beauty - Live the Trends, Taste the Creativity - Handbags in tan and red"
                           width={1920}
                           height={1080}
